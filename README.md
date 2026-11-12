@@ -1,1 +1,1 @@
-# Gesti-emmagatzematge-redundant
+# Gestió d'emmagatzematge redundant.
