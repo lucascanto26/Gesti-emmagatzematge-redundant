@@ -1,0 +1,1 @@
+# Gesti-emmagatzematge-redundant
